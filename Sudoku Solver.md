@@ -115,6 +115,7 @@ class Solution(object):
 
 ```
 
+
 ## 🚀 Usage
 
 ```
@@ -134,6 +135,10 @@ Solution().solveSudoku(board)
 print(board)
 
 ```
+##  How to Run
+python3 sudoku_solver.py
+
+
 ## 📎 License
 
 This project is open-source and available under the MIT License.
